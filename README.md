@@ -20,7 +20,8 @@
 |[PixMO](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b)|Image, Text|MLM pretraining QA on images|Yes|Yes|[link](https://huggingface.co/allenai/Molmo-7B-D-0924)|
 |[MegaBench](https://tiger-ai-lab.github.io/MEGA-Bench/)|Image, Text|MLM benchmark with splits on spatial reasoning|No|Yes|No|
 |[MultiSpatialLLM](https://github.com/facebookresearch/Multi-SpatialMLLM)| Image/multi-image, Text | Dynamic spatial QAs|Yes|Yes|-|
-|[PEVideo](https://ai.meta.com/datasets/pe-video/)| Video, text | dense action video annotations| Yes | Yes| -|
+|[PEVideo](https://ai.meta.com/datasets/pe-video/)| Video, Text | dense action video annotations| Yes | Yes| -|
+|[SPaRC](https://huggingface.co/datasets/lkaesberg/SPaRC/)| Text | 2D pathfinding dataset, requiring multi-step spatial and rule-based reasoning| Yes | Yes|-|
 
 
 
