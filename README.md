@@ -5,6 +5,7 @@
 
 |Name|Modalities|Description|Train|Test|HF|
 |-|-|-|-|-|-|
+|[SpatialGen-Bench (ProVisE)](https://arxiv.org/abs/2607.21072)|Image, Text|Protocol-constrained visual-answer evaluation of spatial cognition for image-generation models and VLMs; 470 samples across 14 spatial subtasks|No|Yes|[Code](https://github.com/ZJU-OmniAI/ProVisE)|
 |[Zebra-CoT](https://arxiv.org/abs/2507.16746)|Multi-Image, Text|Interleaved Vision Language Reasoning|Yes|-|[Link](https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT)|
 |[Video-R1](https://arxiv.org/abs/2503.21776)|Video, Text|Video and text-based reasoning|Yes|-|[Code](https://github.com/tulerfeng/Video-R1)|
 |[VSI-Bench](https://huggingface.co/datasets/nyu-visionx/VSI-Bench)|Video, Text|Video walk through of apartment, questions about spatial orientations and planning|No  |Yes| No|
