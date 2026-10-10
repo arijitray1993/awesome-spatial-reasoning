@@ -5,6 +5,7 @@
 
 |Name|Modalities|Description|Train|Test|HF|
 |-|-|-|-|-|-|
+|[Spatial Scene Bench](https://github.com/selfishout/spatial-scene-bench)|Image/multi-view video, Text|Procedural 3D scenes with exact ground truth for counting under occlusion, relations, metric distance and egocentric direction, from single images to 16-frame orbit videos; 4,387 test questions across 11 types, plus a generator for unlimited verifiable training data|Yes|Yes|[link](https://huggingface.co/datasets/alithema/spatial-scene-bench)|
 |[SpatialGen-Bench (ProVisE)](https://arxiv.org/abs/2607.21072)|Image, Text|Protocol-constrained visual-answer evaluation of spatial cognition for image-generation models and VLMs; 470 samples across 14 spatial subtasks|No|Yes|[Code](https://github.com/ZJU-OmniAI/ProVisE)|
 |[Zebra-CoT](https://arxiv.org/abs/2507.16746)|Multi-Image, Text|Interleaved Vision Language Reasoning|Yes|-|[Link](https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT)|
 |[Video-R1](https://arxiv.org/abs/2503.21776)|Video, Text|Video and text-based reasoning|Yes|-|[Code](https://github.com/tulerfeng/Video-R1)|
