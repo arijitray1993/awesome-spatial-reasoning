@@ -22,7 +22,8 @@
 |[MegaBench](https://tiger-ai-lab.github.io/MEGA-Bench/)|Image, Text|MLM benchmark with splits on spatial reasoning|No|Yes|No|
 |[MultiSpatialLLM](https://github.com/facebookresearch/Multi-SpatialMLLM)| Image/multi-image, Text | Dynamic spatial QAs|Yes|Yes|-|
 |[PEVideo](https://ai.meta.com/datasets/pe-video/)| Video, Text | dense action video annotations| Yes | Yes| -|
-|[SPaRC](https://huggingface.co/datasets/lkaesberg/SPaRC/)| Text | 2D pathfinding dataset, requiring multi-step spatial and rule-based reasoning| Yes | Yes|-|
+|[SPaRC](https://sparc.gipplab.org/)| Text | 2D pathfinding dataset, requiring multi-step spatial and rule-based reasoning| Yes | Yes|[link](https://huggingface.co/datasets/lkaesberg/SPaRC)|
+|[Spatial-Gym](https://github.com/lkaesberg/Spatial-Gym)| Text, Image | Gymnasium environment for step-by-step 2D grid pathfinding on SPaRC puzzles, with optional backtracking ([paper](https://arxiv.org/abs/2604.09338))| Yes | Yes|-|
 
 
 
@@ -65,6 +66,7 @@
 |Paper|Venue/Date|Code|
 |-|-|-|
 |[Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://arxiv.org/abs/2609.23038)|Preprint 2026|[Code](https://github.com/ZJU-OmniAI/Spatial-Interactor)|
+|[Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](https://arxiv.org/abs/2608.21170)|EMNLP Findings 2026|-|
 |[Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://www.arxiv.org/abs/2506.17218)|2025|-|
 |[COT-VLA](https://arxiv.org/abs/2503.22020)|2025|-|
 |[SpatialCOT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/abs/2501.10074)|2025|-|
